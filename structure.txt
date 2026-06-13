@@ -1,1 +1,13 @@
-
+home-dashboard/
+├── index.html
+├── README.md
+├── css/
+│   └── dashboard.css
+├── js/
+│   ├── app.js
+│   ├── weather.js
+│   ├── news.js
+│   ├── calendar.js
+│   └── theme.js
+└── assets/
+    └── background.jpg (optional)
