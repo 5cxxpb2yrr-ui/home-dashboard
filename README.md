@@ -1,24 +1,22 @@
-# 🪞 Home Dashboard (Magic Mirror Style)
+# 🪞 Home Dashboard (Magic Mirror PWA)
 
-A modern smart dashboard inspired by CodePen smart mirror UIs.
+A modern smart dashboard inspired by smart mirror layouts.
 
 ## ✨ Features
 
-- Snap-grid layout (pixel-perfect)
-- Live clock + date
-- Real weather (OpenWeather API)
-- RSS news feed
-- Calendar sync (ICS)
-- Animated weather icons
+- PWA installable app
+- Fullscreen kiosk mode
+- Snap-grid layout
+- Live clock
+- Weather API (OpenWeather)
+- News API
+- Calendar (ICS)
 - Day / Night theme
-- Touch-friendly navigation
-- MagicMirror² ready
+- Offline support (Service Worker)
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Install a local server
+## 🚀 Quick Start
 
 ```bash
 npx serve .
